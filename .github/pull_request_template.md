@@ -2,7 +2,7 @@
 Scrumm metodologija 
 ### Details
 
-### Referencis
+### References
 https://chat.openai.com/chat
 ### Checks
 - [ ] Definisanje opstih koraka scrumm metodologije
